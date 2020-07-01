@@ -51,7 +51,7 @@ w = 1
 max_it = 10**5
 # threshold for the convergence tests of the SOR 
     # with this value, the system converges in 120 seconds aproximately
-threshold = 10**-1
+threshold = 10**-8
 
 # This function handles the creation of the system, 
 # its global initialization and the computation of the performance measures
