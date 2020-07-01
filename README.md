@@ -4,6 +4,7 @@
 This GitHub repository contains the implementation of the thesis "Assessment of Tool Renting Systems" written by Charles BARBIZET under the supervision of Professor Bo Friis NIELSEN and Postdoctoral Researcher Anders Reenberg ANDERSEN. It was handed-in on 01.07.2020.
 
 The repository only contain the implementation of the model and not the tests and the data analysis that were presented on the thesis.
+The code was implmented using Python 3.7.6., please use the same version when using the code.
 
 This GitHub repository contain three files
 
