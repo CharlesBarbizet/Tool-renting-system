@@ -6,6 +6,9 @@ This GitHub repository contains the implementation of the thesis "Assessment of 
 The repository only contain the implementation of the model and not the tests and the data analysis that were presented on the thesis.
 
 This GitHub repository contain three files
+
 	- README.md : explain the general purpose and fonctionnement of the repository
+	
 	- Model.py : contains all the Object Oriented Programming of the project (it should not be modified)
+	
 	- Test.py : presents a model running with the class of Model.py and explain the major steps
